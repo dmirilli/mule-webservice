@@ -1,0 +1,1 @@
+Projeto mais simples possível mostrando um servidor SOAP (com uso de JAX-WS).
